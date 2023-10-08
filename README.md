@@ -23,5 +23,5 @@ uvicorn main:app --reload
 
 ### Стек
 ```
-Python 3.8, FastApi, Request, Logging, Tests.
+Python 3.8, FastApi, Requests, Beautifulsoup, Logging, Tests.
 ```
